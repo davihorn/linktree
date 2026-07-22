@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgba(113, 114, 117, 0.336);
+    background-color: rgba(113, 114, 117, 0.336); /* tricolor, amarelo, vermelho e azul*/
     display: flex;
     flex-direction: column;
     align-items: center;
