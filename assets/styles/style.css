@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgba(255, 255, 255, 0.699);
+    background-color: rgba(113, 114, 117, 0.336);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,12 +32,12 @@ body {
 
   .links a {
     text-decoration: none;
-    background-color: #222222;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     padding: 15px;
+    font-family: Arial, Helvetica, sans-serif ;
     margin: 10px 0;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgb(236, 236, 236);
     text-align: center;
     transition: background-color 0.3s;
   }
